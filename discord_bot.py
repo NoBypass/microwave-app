@@ -7,7 +7,7 @@ import requests
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = 'MTAzNzY0MDYyMDYyMzI3ODEzMA.GyEZfg.2t1k-_Dg0ZdXfi1RmNLsSF7RDYIscXLncuQqU4'
+TOKEN = ''
 intents = discord.Intents.all()
 
 class MyClient(discord.Client):
